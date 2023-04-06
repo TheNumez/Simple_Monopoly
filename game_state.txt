@@ -1,0 +1,13 @@
+One: 9334
+Two: 9496
+One owns:
+- B&O Railroad
+- Short Line
+- Kentucky Avenue
+Two owns:
+- Baltic Avenue
+- St. Charles Place
+- Tennessee Avenue
+- Pacific Avenue
+- Start
+- Connecticut Avenue
